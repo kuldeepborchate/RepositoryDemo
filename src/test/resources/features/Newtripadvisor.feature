@@ -11,4 +11,3 @@ Feature: Search flights avilable
     Then enter amt to be paid
     Then choose cards and net-banking option
     Then click on submit button
-    Then click on submit button
